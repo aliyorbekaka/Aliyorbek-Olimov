@@ -1,0 +1,57 @@
+
+.conatiner
+{
+    width: 90%;
+    margin: auto;
+}
+
+.navbar{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+
+.header-title{
+    padding-top: 350px;
+    text-align: center;
+}
+
+.header-title h6{
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.header-title h1{
+    font-size: 62px;
+    font-weight: 900;
+}
+
+.aboutme-img{
+    margin-top: 100px;
+}
+
+.wrapper{
+    border: none;
+    position: absolute;
+    width: 1000px;
+    background-color: rgb(255, 255, 255);
+    height: 700px;
+    margin-top: 100px;
+    padding-top: 100px;
+    padding-left: 60px;
+    margin-left: 160px;
+    margin-top: 400px;
+}
+
+.conatct-img{
+    background-image: url(https://avatars.mds.yandex.net/i?id=6dcb25d72549f091224a8e47942bf8d82d56babb-8185197-images-thumbs&n=13);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    margin-top: 100px;
+}
+
+.contact-button{
+    text-align: center;
+    margin-top: 200px;
+}
